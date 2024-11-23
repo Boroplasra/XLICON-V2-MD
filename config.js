@@ -8,11 +8,11 @@ import axios from 'axios'
 // Global variables
 global.owner = [
   ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233268374753', 'Abraham Dwamena3.0', true]
+  ['233208179431', 'ASHOK', true],
+  ['923184070915', '❀ASHOK MD❀ -(𝘼𝙝𝙢𝙢𝙞)', true], 
+  ['94789481495', 'ASHOK-MD⚡', true],
+  ['233533763772', 'ASHOK MD 2', true],
+  ['233268374753', 'ASHOK MD.0', true]
 ] 
 
 global.mods = ['923184070915', '94789481495', '923184474176', '233268374753', '233508488192'] 
@@ -51,9 +51,9 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'ASHOK-MD-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
+global.packname = 'ASHOK TEAM' 
 global.author = '@XLICON-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
